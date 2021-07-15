@@ -1,0 +1,22 @@
+
+.top-container{
+  border: 20px solid black;
+  width: 500px;
+  height: 200px;
+  padding: 20px;
+  
+}
+.middle-cont{
+  background-color: red;
+  border: 10px solid black;
+  margin-left: 280px;
+  width: 200px;
+  height: 200px;
+}
+.down-cont{
+  background-color: green;
+  border: 10px solid black;
+  width: 200px;
+  height: 200px;
+  margin-left: 500px;
+}
